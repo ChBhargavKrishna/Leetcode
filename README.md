@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Bhargav2662D/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Sliding Window
 |  |
 | ------- |
