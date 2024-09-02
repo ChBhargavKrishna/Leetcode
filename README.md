@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhargav2662D/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Bhargav2662D/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhargav2662D/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhargav2662D/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
