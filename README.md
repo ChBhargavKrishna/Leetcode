@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Bhargav2662D/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/Bhargav2662D/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhargav2662D/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Bhargav2662D/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bhargav2662D/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhargav2662D/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1547-destination-city](https://github.com/Bhargav2662D/Leetcode/tree/master/1547-destination-city) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhargav2662D/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/Bhargav2662D/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Bhargav2662D/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
