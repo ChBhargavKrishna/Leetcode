@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhargav2662D/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhargav2662D/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Bhargav2662D/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Bhargav2662D/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Bhargav2662D/Leetcode/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhargav2662D/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Bhargav2662D/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Bhargav2662D/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2411-spiral-matrix-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -290,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Bhargav2662D/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [2411-spiral-matrix-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhargav2662D/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
