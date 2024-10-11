@@ -7,7 +7,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre>     
 <strong>Input:</strong> candidates = [10,1,2,7,6,1,5], target = 8
 <strong>Output:</strong> 
 [
