@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhargav2662D/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhargav2662D/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Bhargav2662D/Leetcode/tree/master/2035-count-sub-islands) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Bhargav2662D/Leetcode/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Bhargav2662D/Leetcode/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhargav2662D/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhargav2662D/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhargav2662D/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Bhargav2662D/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhargav2662D/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhargav2662D/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhargav2662D/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Bhargav2662D/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhargav2662D/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
