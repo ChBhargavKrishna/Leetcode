@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhargav2662D/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhargav2662D/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhargav2662D/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhargav2662D/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhargav2662D/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhargav2662D/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhargav2662D/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/Bhargav2662D/Leetcode/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhargav2662D/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhargav2662D/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhargav2662D/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Bhargav2662D/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhargav2662D/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhargav2662D/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhargav2662D/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhargav2662D/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhargav2662D/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
