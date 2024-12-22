@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Bhargav2662D/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Bhargav2662D/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Bhargav2662D/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Bhargav2662D/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Bhargav2662D/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Bhargav2662D/Leetcode/tree/master/1511-count-number-of-teams) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Stack
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhargav2662D/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhargav2662D/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
 | ------- |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bhargav2662D/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Bhargav2662D/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Bhargav2662D/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/3427-special-array-ii) |
 ## Math
@@ -621,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Bhargav2662D/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -643,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhargav2662D/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bhargav2662D/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Queue
 |  |
 | ------- |
