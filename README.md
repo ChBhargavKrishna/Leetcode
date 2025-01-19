@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0136-single-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Bhargav2662D/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Bhargav2662D/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Bhargav2662D/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Bhargav2662D/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhargav2662D/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav2662D/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhargav2662D/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhargav2662D/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Bhargav2662D/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhargav2662D/Leetcode/tree/master/0999-regions-cut-by-slashes) |
