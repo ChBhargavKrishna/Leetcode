@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Bhargav2662D/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Bhargav2662D/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bhargav2662D/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhargav2662D/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Bhargav2662D/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhargav2662D/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Bhargav2662D/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Bhargav2662D/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhargav2662D/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhargav2662D/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhargav2662D/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhargav2662D/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Bhargav2662D/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Bhargav2662D/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhargav2662D/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhargav2662D/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhargav2662D/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Matrix
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Bhargav2662D/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhargav2662D/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhargav2662D/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhargav2662D/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Bhargav2662D/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhargav2662D/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bhargav2662D/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Bhargav2662D/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhargav2662D/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bhargav2662D/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Bhargav2662D/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhargav2662D/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
