@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav2662D/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav2662D/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Bhargav2662D/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0075-sort-colors) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Bhargav2662D/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhargav2662D/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
