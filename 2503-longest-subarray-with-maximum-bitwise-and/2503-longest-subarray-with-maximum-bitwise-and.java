@@ -1,25 +1,31 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int maxBitwiseAnd = Integer.MIN_VALUE;
-        for (int num : nums) {
-            maxBitwiseAnd = Math.max(maxBitwiseAnd, num);
+        if (nums == null || nums.length == 0) {
+            return 0;
         }
-        int maxi = 1;
-        int count = 0;
-        int i = 0;
-        
-        while (i < nums.length) {
-            if (nums[i] == maxBitwiseAnd) {
-                while (i < nums.length && nums[i++] == maxBitwiseAnd) {
-                    count++;
-                }
-                maxi = Math.max(maxi, count);
-                count = 0;
-            } else {
-                i++;
+
+        // 1. Find the maximum value in the array.
+        int maxVal = 0;
+        for (int num : nums) {
+            if (num > maxVal) {
+                maxVal = num;
             }
         }
         
-        return maxi;
+        // 2. Find the length of the longest subarray of maxVal.
+        int maxLen = 0;
+        int currentLen = 0;
+        
+        for (int num : nums) {
+            if (num == maxVal) {
+                currentLen++;
+            } else {
+                maxLen = Math.max(maxLen, currentLen);
+                currentLen = 0;
+            }
+        }
+        
+        // 3. Final check for a trailing streak.
+        return Math.max(maxLen, currentLen);
     }
 }
