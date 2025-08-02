@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhargav2662D/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav2662D/Leetcode/tree/master/0368-largest-divisible-subset) |
