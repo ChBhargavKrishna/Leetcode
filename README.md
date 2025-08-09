@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhargav2662D/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Bhargav2662D/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhargav2662D/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhargav2662D/Leetcode/tree/master/0273-integer-to-english-words) |
 | [2050-count-good-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/2050-count-good-numbers) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Bhargav2662D/Leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhargav2662D/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
