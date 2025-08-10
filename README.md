@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Bhargav2662D/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Bhargav2662D/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bhargav2662D/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Bhargav2662D/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhargav2662D/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhargav2662D/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhargav2662D/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/Bhargav2662D/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Bhargav2662D/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1285,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Bhargav2662D/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhargav2662D/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
