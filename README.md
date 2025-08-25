@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargav2662D/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bhargav2662D/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Bhargav2662D/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Bhargav2662D/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Bhargav2662D/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Bhargav2662D/Leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhargav2662D/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0898-transpose-matrix](https://github.com/Bhargav2662D/Leetcode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Bhargav2662D/Leetcode/tree/master/0906-walking-robot-simulation) |
