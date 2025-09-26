@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Bhargav2662D/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Bhargav2662D/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhargav2662D/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0679-24-game) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Bhargav2662D/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhargav2662D/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Bhargav2662D/Leetcode/tree/master/0768-partition-labels) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Bhargav2662D/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Bhargav2662D/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhargav2662D/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Bhargav2662D/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhargav2662D/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1023,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Bhargav2662D/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0731-my-calendar-ii) |
