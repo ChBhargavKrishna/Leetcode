@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
