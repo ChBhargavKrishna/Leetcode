@@ -1,25 +1,15 @@
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        int max = -1;
-        for(int num : nums ){
-            max = num > max ? num : max;
-        }
-        boolean[] freq = new boolean[max+1];
-
-        for(int num : nums) freq[num] = true;
-
-        ListNode temp = new ListNode();
-        ListNode current = temp;
-
-        while(head != null){
-            if( head.val >= freq.length || freq[head.val] == false){
-                current.next = head;
-                current = current.next;
+        java.util.HashSet<Integer> mpp = new java.util.HashSet<>();
+        for (int x : nums) mpp.add(x);
+        while (head != null && mpp.contains(head.val)) head = head.next;
+        ListNode curr = head;
+        while (curr != null && curr.next != null) {
+            while (curr.next != null && mpp.contains(curr.next.val)) {
+                curr.next = curr.next.next;
             }
-            head = head.next;
+            curr = curr.next;
         }
-
-        current.next = null;
-        return temp.next;
+        return head;
     }
 }
