@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Bhargav2662D/Leetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav2662D/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhargav2662D/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
