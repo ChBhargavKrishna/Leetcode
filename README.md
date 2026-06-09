@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1240-stone-game-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1306-jump-game-iii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Bhargav2662D/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhargav2662D/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/Bhargav2662D/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhargav2662D/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhargav2662D/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhargav2662D/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhargav2662D/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhargav2662D/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhargav2662D/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhargav2662D/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhargav2662D/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhargav2662D/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
