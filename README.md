@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhargav2662D/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhargav2662D/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Bhargav2662D/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bhargav2662D/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Bhargav2662D/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Bhargav2662D/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhargav2662D/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhargav2662D/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Bhargav2662D/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bhargav2662D/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1590,9 +1592,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
