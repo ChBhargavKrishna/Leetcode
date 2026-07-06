@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1240-stone-game-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Bhargav2662D/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhargav2662D/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
