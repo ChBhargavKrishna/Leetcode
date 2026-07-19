@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Bhargav2662D/Leetcode/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1304-longest-happy-string](https://github.com/Bhargav2662D/Leetcode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Bhargav2662D/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Bhargav2662D/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Bhargav2662D/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhargav2662D/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhargav2662D/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Bhargav2662D/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhargav2662D/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1528,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhargav2662D/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhargav2662D/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
