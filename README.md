@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhargav2662D/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhargav2662D/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhargav2662D/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhargav2662D/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1276,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhargav2662D/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1574,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhargav2662D/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhargav2662D/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhargav2662D/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
