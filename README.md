@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhargav2662D/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bhargav2662D/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Bhargav2662D/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Indexed Tree
@@ -1459,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Bhargav2662D/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhargav2662D/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
