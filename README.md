@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhargav2662D/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 | [2035-count-sub-islands](https://github.com/Bhargav2662D/Leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhargav2662D/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhargav2662D/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bhargav2662D/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/Bhargav2662D/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhargav2662D/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhargav2662D/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhargav2662D/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhargav2662D/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1270,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhargav2662D/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhargav2662D/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/Bhargav2662D/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhargav2662D/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1432,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ChBhargavKrishna/Leetcode/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/Bhargav2662D/Leetcode/tree/master/1240-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/ChBhargavKrishna/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -1670,10 +1675,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -1682,4 +1689,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ChBhargavKrishna/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ChBhargavKrishna/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
